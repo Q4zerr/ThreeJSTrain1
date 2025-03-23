@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-three/drei": "^10.0.4",
     "@react-three/fiber": "^9.1.0",
+    "cannon": "^0.6.2",
     "gsap": "^3.12.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
