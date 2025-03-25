@@ -125,7 +125,7 @@ const Sword = () => {
   }, []);
 
   return (
-    <div className="scene-object" style={{ position: "relative", zIndex: "-1000" }}>
+    <div className="scene-object">
         <div ref={mountRef}/>
     </div>
   )

@@ -5,6 +5,7 @@ header{
     justify-content: end;
     align-items: center;
     padding: 2rem 3rem;
+    z-index: 3000;
     .container{
         position: relative;
         .menu-button{

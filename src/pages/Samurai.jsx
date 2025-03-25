@@ -3,7 +3,7 @@ import Sword from '../components/Scene/Sword'
 
 const Samurai = () => {
   return (
-    <div><Sword /></div>
+    <div style={{ backgroundColor: "#0d1321"}}><Sword /></div>
   )
 }
 
